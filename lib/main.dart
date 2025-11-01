@@ -28,7 +28,7 @@ class AdvBasics extends StatelessWidget {
 
                 style: TextStyle(fontSize: 24, color: Colors.white),
               ),
-              Text("Aleksandr"),
+              Text("Aleksandr Dolzhenko"),
               Spacer(flex: 1),
               OutlinedButton(
                 onPressed: () {},
