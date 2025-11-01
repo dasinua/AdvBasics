@@ -25,8 +25,10 @@ class AdvBasics extends StatelessWidget {
               Spacer(flex: 1),
               Text(
                 'Learn Flutter the fun way!',
+
                 style: TextStyle(fontSize: 24, color: Colors.white),
               ),
+              Text("Aleksandr"),
               Spacer(flex: 1),
               OutlinedButton(
                 onPressed: () {},
