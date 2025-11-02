@@ -26,3 +26,8 @@ linter:
 
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
+# Настройки форматера
+formatter:
+  # 'preserve' (сохранить) - говорит форматеру не удалять запятые, 
+  # если они уже есть, и использовать их для переноса строк.
+  trailing_commas: preserve	
